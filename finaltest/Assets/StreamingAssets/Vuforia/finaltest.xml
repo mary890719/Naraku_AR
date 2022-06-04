@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="kashiwaka" size="5.000000 5.000000" />
+    <ImageTarget name="Ayano" size="5.000000 5.000000" />
+    <ImageTarget name="hina" size="5.000000 5.000000" />
+    <ImageTarget name="Eko" size="5.000000 5.000000" />
+    <ImageTarget name="Haruka" size="5.000000 5.000000" />
+    <ImageTarget name="Kanna" size="5.000000 5.000000" />
+    <ImageTarget name="main" size="5.000000 5.000000" />
+    <ImageTarget name="Video" size="5.000000 2.813152" />
+    <ImageTarget name="LOGO" size="5.000000 2.813152" />
+    <ImageTarget name="post" size="5.000000 3.545246" />
+  </Tracking>
+</QCARConfig>
